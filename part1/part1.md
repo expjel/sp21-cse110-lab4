@@ -1,11 +1,11 @@
-##part 1a
+## part 1a
 1. values added: 20
 2. It would throw a reference error since it is trying to access result outside of sumValues, which would be out of scope.
 3. values added: 20
 4. It would throw a reference error since it is trying to access result outside of the code block, which would be out of scope.
 5. values added: 20
 6. It would throw a reference error since it is trying to access result outside of the code block, which would be out of scope.
-##part 1b
+## part 1b
 1. This line would print the length of the prices array which is 3
 2. This line would print the discounted price of the last price in the price array, 300 * (1-0.5) = 150
 3. This line would print the final price that was calculated in the for loop
